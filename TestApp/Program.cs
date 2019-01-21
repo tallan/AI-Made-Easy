@@ -334,7 +334,7 @@ namespace TestApp
                 // Get the file name
                 Console.WriteLine("Please enter a search query:");
                 var searchQuery = Console.ReadLine();
-                var query = new BingAutosuggestQuery(searchQuery,Constants.AUTOSUGGEST_SUBSCRIPTION_KEY, Constants.AUTOSUGGEST_SUBSCRIPTION_KEY);
+                var query = new BingAutosuggestQuery(searchQuery,Constants.AUTOSUGGEST_SUBSCRIPTION_KEY, Constants.CUSTOM_CONFIG_ID);
                 var result = BingAutosuggestService.callAutosuggestSearchAPI(query).Result;
                 ExportJSON(JsonConvert.SerializeObject(result));
                 Console.WriteLine("\nPress Enter to exit ");

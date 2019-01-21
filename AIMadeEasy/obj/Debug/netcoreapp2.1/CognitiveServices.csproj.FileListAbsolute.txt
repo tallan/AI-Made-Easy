@@ -16,3 +16,12 @@ C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\
 C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.dll
 C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
 C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csprojAssemblyReference.cache
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.deps.json
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csprojAssemblyReference.cache
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfoInputs.cache
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfo.cs
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\Documents\GitHub\AI-Made-Easy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.pdb
