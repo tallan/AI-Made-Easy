@@ -1,0 +1,28 @@
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.deps.json
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.json
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.dev.json
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.pdb
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csprojAssemblyReference.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfo.cs
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CopyComplete
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.deps.json
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.json
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.runtimeconfig.dev.json
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\TestApp.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csprojAssemblyReference.cache
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfoInputs.cache
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.AssemblyInfo.cs
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.csproj.CopyComplete
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.dll
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\TestApp\obj\Debug\netcoreapp2.1\TestApp.pdb

@@ -1,0 +1,18 @@
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.deps.json
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csprojAssemblyReference.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfoInputs.cache
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfo.cs
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\Dropbox\Microsoft Cognitive Services in a Day\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfoInputs.cache
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.AssemblyInfo.cs
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.deps.json
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.dll
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\bin\Debug\netcoreapp2.1\CognitiveServices.pdb
+C:\Users\MKruczek\source\repos\Tallan.AI\Events\AIMadeEasy\AIMadeEasy\obj\Debug\netcoreapp2.1\CognitiveServices.csprojAssemblyReference.cache

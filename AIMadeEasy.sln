@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CognitiveServices", "AIMadeEasy\CognitiveServices.csproj", "{52457EE5-9C3C-44D4-B2D3-BA96E98BB0CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{8F2BB67B-0728-411E-B943-F4A7CEB905B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore", "OnlineStore\OnlineStore.csproj", "{EBAA08ED-FA26-43EA-8A0D-2004EA55CCA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52457EE5-9C3C-44D4-B2D3-BA96E98BB0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52457EE5-9C3C-44D4-B2D3-BA96E98BB0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52457EE5-9C3C-44D4-B2D3-BA96E98BB0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52457EE5-9C3C-44D4-B2D3-BA96E98BB0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2BB67B-0728-411E-B943-F4A7CEB905B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2BB67B-0728-411E-B943-F4A7CEB905B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2BB67B-0728-411E-B943-F4A7CEB905B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2BB67B-0728-411E-B943-F4A7CEB905B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAA08ED-FA26-43EA-8A0D-2004EA55CCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAA08ED-FA26-43EA-8A0D-2004EA55CCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAA08ED-FA26-43EA-8A0D-2004EA55CCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAA08ED-FA26-43EA-8A0D-2004EA55CCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B4638D-4FCA-421F-9094-1095CC6F8BFE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.tallan.com:8181/tfs/tallan
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AIMadeEasy\\CognitiveServices.csproj
+		SccProjectName1 = AIMadeEasy
+		SccLocalPath1 = AIMadeEasy
+		SccProjectUniqueName2 = TestApp\\TestApp.csproj
+		SccProjectName2 = TestApp
+		SccLocalPath2 = TestApp
+		SccProjectUniqueName3 = OnlineStore\\OnlineStore.csproj
+		SccProjectName3 = OnlineStore
+		SccLocalPath3 = OnlineStore
+	EndGlobalSection
+EndGlobal
