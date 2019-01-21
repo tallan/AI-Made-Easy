@@ -3858,11 +3858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\TestApp\\TestApp.csproj",
+      "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\MKruczek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\TestApp\\obj\\",
+      "outputPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3881,8 +3881,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\AIMadeEasy\\CognitiveServices.csproj": {
-              "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\AIMadeEasy\\CognitiveServices.csproj"
+            "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\CognitiveServices.csproj": {
+              "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\CognitiveServices.csproj"
             }
           }
         }

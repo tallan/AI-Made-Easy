@@ -3839,11 +3839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\AIMadeEasy\\CognitiveServices.csproj",
+      "projectUniqueName": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\CognitiveServices.csproj",
       "projectName": "CognitiveServices",
-      "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\AIMadeEasy\\CognitiveServices.csproj",
+      "projectPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\CognitiveServices.csproj",
       "packagesPath": "C:\\Users\\MKruczek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\AIMadeEasy\\obj\\",
+      "outputPath": "C:\\Users\\MKruczek\\Documents\\GitHub\\AI-Made-Easy\\AIMadeEasy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
