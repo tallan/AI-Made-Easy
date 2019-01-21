@@ -1,1 +1,1 @@
-# AI-Made-Easysd
+# AI-Made-Easy
