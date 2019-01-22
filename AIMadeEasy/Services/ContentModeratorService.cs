@@ -103,20 +103,9 @@ namespace CognitiveServices.Services
             _httpRequest.Method = new HttpMethod("POST");
             _httpRequest.RequestUri = new System.Uri(url);
             _httpRequest.Headers.TryAddWithoutValidation("Ocp-Apim-Subscription-Key", query.SubscriptionKey);
-            _httpRequest.Content = ConvertImageContent(query.FileStream);
+            _httpRequest.Content = new StreamContent(File.OpenRead(query.ImagePath));
             _httpRequest.Content.Headers.ContentType = System.Net.Http.Headers.MediaTypeHeaderValue.Parse(query.ContentType);
             return _httpRequest;
-        }
-
-        private static ByteArrayContent ConvertImageContent(Stream image)
-        {
-            // Convert image stream to byte array
-            byte[] imageBinary = new byte[image.Length];
-            image.Read(imageBinary, 0, (int)image.Length);
-            image.Close();
-
-            ByteArrayContent byteContent = new ByteArrayContent(imageBinary);
-            return byteContent;
         }
     }
 }

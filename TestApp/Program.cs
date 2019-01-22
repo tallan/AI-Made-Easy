@@ -45,7 +45,7 @@ namespace TestApp
             //CallContentModeratorAPIText();
 
             // Matt Content Moderator Part 4
-            //CallContentModeratorAPIImage();
+            CallContentModeratorAPIImage();
 
             // Matt Content Moderator Part 6
             //CallContentModeratorAPIFaces();
